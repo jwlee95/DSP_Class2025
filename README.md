@@ -1,4 +1,4 @@
-# 생체신호처리 (8268) [ DSP_Class2024 02학기]
+# 생체신호처리 (8268) [ DSP_Class205 02학기]
 
 ![Python + Google Colab...](./images/Python-Colab.png)
 
